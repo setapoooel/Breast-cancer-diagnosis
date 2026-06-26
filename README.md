@@ -101,6 +101,3 @@ The model is not a certified medical diagnostic tool and should not be used for 
 **Setayesh Saeedi**
 
 Student Developer | AI Enthusiast | Python Programmer
-
-
-MIT License
