@@ -43,7 +43,7 @@ This project utilizes the Breast Cancer Wisconsin Dataset and applies Logistic R
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Breast-Cancer-Diagnosis.git
+git clone https://github.com/setapoooel/Breast-Cancer-Diagnosis.git
 cd Breast-Cancer-Diagnosis
 ```
 
